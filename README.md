@@ -31,7 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerihundagne880-bot&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerihundagne880-bot&theme=radical&column=4" alt="github trophy" /></a>
-
 ### 📫 አግኙኝ (Connect with me)
 - 📧 **Email:** [zerihundagne880@gmail.com](mailto:zerihundagne880@gmail.com)
 - 💬 **Telegram:** [@zedyo123](https://t.me/zedyo123)
