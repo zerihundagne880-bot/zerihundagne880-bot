@@ -1,14 +1,13 @@
+# 👋 Hello! I'm Zerihun Dagne
 
-# 👋 ሰላም! እኔ ዘሪሁን ዳኜ እባላለሁ (Zerihun Dagne)
-
-### 👨‍💻 ስለ እኔ (About Me)
-- 🚀 እኔ የሶፍትዌር በልጻጊ ነኝ፤ የተለያዩ የፕሮግራም ቋንቋዎችን በመጠቀም ፕሮጀክቶችን እሰራለሁ።
-- 📱 በ **Termux** እና በሊኑክስ አካባቢዎች መስራት እወዳለሁ።
-- 🎓 አዳዲስ ቴክኖሎጂዎችን መማር እና ችግር ፈቺ የሆኑ ነገሮችን መፍጠር ዋና ፍላጎቴ ነው።
+### 👨‍💻 About Me
+- 🚀 I am a Software Developer passionate about building projects using various programming languages.
+- 📱 I enjoy working in **Termux** and Linux environments.
+- 🎓 Learning new technologies and creating problem-solving tools is my core interest.
 
 ---
 
-### 🛠 የቴክኖሎጂ ችሎታዎች (Tech Stack)
+### 🛠 Tech Stack
 
 **🌐 Web Development:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +18,6 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![database]
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **🔧 Tools:**
@@ -28,15 +26,15 @@
 
 ---
 
-### 📊 GitHub ስታቲስቲክስ (My Stats)
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zerihundagne880-bot&show_icons=true&theme=radical&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerihundagne880-bot&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
-### 📫 አግኙኝ (Connect with me)
+### 📫 Connect with me
 - 📧 **Email:** [zerihundagne880@gmail.com](mailto:zerihundagne880@gmail.com)
 - 💬 **Telegram:** [@zedyo123](https://t.me/zedyo123)
 
 ---
-⭐️ *በእኔ GitHub ላይ ስላሳለፍክ አመሰግናለሁ!*
+⭐️ *Thank you for visiting my GitHub profile!*
