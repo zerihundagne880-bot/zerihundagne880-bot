@@ -32,6 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zerihundagne880-bot&show_icons=true&theme=radical&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerihundagne880-bot&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
+
 ![Snake animation](https://raw.githubusercontent.com/zerihundagne880-bot/zerihundagne880-bot/output/github-contribution-grid-snake.svg)
 
 
